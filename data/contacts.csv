@@ -1,0 +1,6 @@
+contact_id,name,email,company,status
+1,Alice Johnson,alice.johnson@example.com,Acme Corp,active
+2,Bob Smith,bob.smith@example.com,Global Tech,active
+3,Carol Danvers,carol.danvers@example.com,Innovate LLC,inactive
+4,David Miller,david.miller@example.com,NextGen Solutions,active
+5,Emma Watson,emma.watson@example.com,Apex Media,active

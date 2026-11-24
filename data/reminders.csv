@@ -1,0 +1,6 @@
+reminder_id,contact_id,title,subject,message,scheduled_at,status
+1,1,Follow-up Meeting,Project Roadmap Follow-up,Please review the Q1 project milestones ahead of our upcoming discussion.,2026-12-01 10:00,pending
+2,2,Invoice Reminder,Payment Due for Services,This is a courtesy reminder that invoice #1042 is due next week.,2026-12-02 14:30,pending
+3,3,Contract Renewal,Annual Subscription Renewal,Your annual service agreement is due for renewal soon.,2026-12-05 09:00,pending
+4,4,Quarterly Review,Q4 Performance Review,Let us schedule time for the quarterly performance recap.,2026-11-20 11:00,sent
+5,5,Welcome Onboarding,Welcome to the Platform,Thank you for joining our partner network. Let us get you started.,2026-12-12 16:00,pending

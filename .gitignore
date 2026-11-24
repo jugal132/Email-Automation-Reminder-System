@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets
+.env
+*.env
+!.env.example
+
+# SQLite Database & Storage (Generated during runtime - run `python main.py` to initialize)
+*.db
+*.sqlite
+*.sqlite3
+!data/.gitkeep
+
+# Streamlit Cache & Settings
+.streamlit/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/*
+!logs/.gitkeep
+*.log
+
+# Generated outputs & reports
+outputs/campaign_reports/*
+!outputs/campaign_reports/.gitkeep
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating System Files
+.DS_Store
+Thumbs.db

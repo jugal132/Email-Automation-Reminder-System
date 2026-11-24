@@ -1,0 +1,10 @@
+Hello {{name}},
+
+Subject: {{subject}}
+
+{{message}}
+
+Scheduled Time: {{scheduled_at}}
+
+Best regards,
+Email Automation & Reminder System Team
